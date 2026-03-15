@@ -1,0 +1,1 @@
+# A-Novel-Hybrid-KAN-BiLSTM-Framework-for-Remaining-Useful-Life-Prediction-of-Aircraft-Engines
