@@ -1,0 +1,6 @@
+torch>=2.4.1
+numpy>=1.23.2
+pandas>=2.0.3
+matplotlib
+scikit-learn
+efficient-kan==0.1.0
